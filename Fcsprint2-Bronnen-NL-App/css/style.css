@@ -1,0 +1,67 @@
+.inline 
+{
+    display: inline-block;
+    margin-right: 2px;
+}
+
+html, body
+{
+    font-family: 'Ubuntu';
+}
+
+
+@media (max-width: 1024px) 
+{
+    .container
+    {
+        width: 100% !important;
+        padding: 0px;
+    }
+}
+
+ul.pagination 
+{
+    margin: 0 auto;
+}
+
+.underLine 
+{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.singleWord 
+{
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.greenWord 
+{
+	background-color: #17d472 !important;
+	color: white !important;
+	cursor: pointer;
+}
+
+#holder 
+{
+	margin-top: 30px;
+}
+
+#imgholder 
+{
+	height: 250px;
+}
+
+.singleWord
+{
+	font-family: Verdana, sans-serif;
+	height: 38px !important;
+	margin-top: 4px;
+}
+
+.space
+{
+	margin-left: 5px;
+	margin-right: 5px;
+}

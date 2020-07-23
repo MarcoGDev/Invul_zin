@@ -1,0 +1,73 @@
+/*
+ * FC-Sprint2 project => fonts.css.css
+ *
+ * The project "diglin.eu" is property of FC-Sprint2
+ *
+ * Created at:
+ * 6-okt-2016 @ 8:11:59
+ *
+ * Created by:
+ * Andries van Weeren
+ * a.weeren@fcroc.nl
+ *//*
+    Created on : 6-okt-2016, 8:11:59
+    Author     : andries
+*/
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Regular'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserratregular.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'Montserratbold';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Bold'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserratbold.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'Montserratsemibold';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Semibold'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserratsemibold.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'Montserratlight';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Light'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserratlight.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'Montserratultralight';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Ultralight'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserratultralight.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'Montserrathairline';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Hairline'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserrathairline.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'Montserratblack';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat-Black'), url(/assets/vendor/montserrat-webfont-family/webfont/fonts/montserratblack.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/*UBUNTU-FONTFACE*/
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu-Regular'), url(/assets/vendor/ubuntu-fontface/fonts/ubuntu-regular-webfont.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
