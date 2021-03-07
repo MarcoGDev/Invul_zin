@@ -14,10 +14,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
+    <li><a href="#Structure">Structure</a></li>
+    <li><a href="Built-With">Build-With</a></li>
   </ol>
 </details>
 
