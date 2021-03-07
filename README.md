@@ -42,7 +42,7 @@ Aan het einde heeft de cursist een eind score en kan er gezien worden welke antw
 Contentmanagementsysteem(CMS) & Front end structuur.
 
 ### CMS
-- Maakt het mogelijk voor een leraar eenvoudig en dynamisch een exercise samen te stellen voor cursist.
+- Maakt het mogelijk voor een leraar eenvoudig en dynamisch een exercise samen te stellen voor de cursist.
 
 
 ### Front-End
