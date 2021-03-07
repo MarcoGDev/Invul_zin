@@ -26,6 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Nederlandse taal applicatie waar ik aan medegewerkt heb in mijn stage periode bij FC-Sprint² Leerbedrijf Bronnen.
+
 Taaloefening waarin de cursist aan de hand van audio of afbeeldingen een weggelaten woord in een zin moest invullen.
 
 Contentmanagementsysteem(CMS) & Front end structuur.
