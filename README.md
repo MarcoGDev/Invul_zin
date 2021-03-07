@@ -27,7 +27,7 @@
 ## About The Project
 Nederlandse taal applicatie waar ik aan medegewerkt heb in mijn stage periode bij FC-Sprint² Leerbedrijf Bronnen.
 
-Maakt het mogelijk dynamisch een taaloefening te maken waarin de cursist aan de hand van audio of afbeeldingen een weggelaten woord in een zin moest invullen.
+Maakt het mogelijk dynamisch een taaloefening te maken. Waarin de cursist aan de hand van audio of afbeeldingen, de juiste antwoorden van weggelaten woorden in een zin moeten invullen. Bij elk goed ingevuld woord krijgt de cursist een plus punt, en bij elk slecht antwoord een min punt.
 
 Contentmanagementsysteem(CMS) & Front end structuur.
 
