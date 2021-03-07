@@ -14,10 +14,10 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Structure">Structure</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#CMS">CMS</a></li>
+        <li><a href="Front-End">Front-End</a></li>
       </ul>
     </li>
   </ol>
@@ -38,11 +38,11 @@ De cursist moet aan de hand van audio of afbeeldingen, de juiste antwoorden van 
 ## Structure
 Contentmanagementsysteem(CMS) & Front end structuur.
 
-<h4>CMS</h4>
+### CMS
 - Maakt het mogelijk voor een leraar eenvoudig en dynamisch een exercise samen te stellen voor cursist.
 
 
-<h4>Front-end</h4>
+### Front-End
 - Omgeving waar de exercise gedaan wordt en woorden ingevuld moeten worden door de cursist.
 
 
