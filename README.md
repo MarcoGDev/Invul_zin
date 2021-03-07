@@ -51,14 +51,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Nederlandse taal applicatie waar ik aan gewerkt heb in mijn stage periode bij leerbedrijf Fcsprint2 Bronnen.
 
+Een cms met een front-end
 
 
 ### Built With
-
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
 * [Javascript](https://www.javascript.com/)
+* * [JQuery](https://jquery.com)
+* [Bootstrap](https://getbootstrap.com)
+
+
 
 
 
