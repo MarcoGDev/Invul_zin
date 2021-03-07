@@ -29,11 +29,11 @@ Nederlandse taal applicatie waar ik aan medegewerkt heb in mijn stage periode bi
 
 Contentmanagementsysteem(CMS) & Front end structuur.
 
-<h3>CMS</h3>
+<h4>CMS</h4>
 - Maakt het mogelijk eenvoudig een exercise samen te stellen voor cursist.
 
 
-<h3>Front-end</h3>
+<h4>Front-end</h4>
 - Omgeving waar de exercise gemaakt wordt door de cursist.
 
 ### Built With
