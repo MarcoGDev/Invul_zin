@@ -9,7 +9,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="Closed">
+<details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
