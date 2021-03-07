@@ -58,7 +58,7 @@ Een cms met een front-end
 
 ### Built With
 * [Javascript](https://www.javascript.com/)
-* * [JQuery](https://jquery.com)
+* [JQuery](https://jquery.com)
 * [Bootstrap](https://getbootstrap.com)
 
 
