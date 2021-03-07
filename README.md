@@ -27,6 +27,7 @@
 ## About The Project
 Nederlandse taal applicatie waar ik aan medegewerkt heb in mijn stage periode bij FC-Sprint² Leerbedrijf Bronnen.
 
+
 Contentmanagementsysteem(CMS) & Front end structuur.
 
 <h4>CMS</h4>
