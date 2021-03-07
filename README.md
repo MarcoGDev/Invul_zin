@@ -20,6 +20,7 @@
         <li><a href="Front-End">Front-End</a></li>
       </ul>
     </li>
+        <li><a href="#Build-With">Build-With</a></li>
   </ol>
 </details>
 
@@ -46,7 +47,7 @@ Contentmanagementsysteem(CMS) & Front end structuur.
 - Omgeving waar de exercise gedaan wordt en woorden ingevuld moeten worden door de cursist.
 
 
-### Built With
+## Built With
 * [Javascript](https://www.javascript.com/)
 * [JQuery](https://jquery.com)
 * [Bootstrap](https://getbootstrap.com)
