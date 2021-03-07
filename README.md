@@ -33,6 +33,9 @@ Contentmanagementsysteem(CMS) & Front end structuur.
 - Maakt het mogelijk eenvoudig een exercise samen te stellen voor cursist.
 
 
+<h3>Front-end</h3>
+- Omgeving waar de exercise gemaakt wordt door de cursist.
+
 ### Built With
 * [Javascript](https://www.javascript.com/)
 * [JQuery](https://jquery.com)
