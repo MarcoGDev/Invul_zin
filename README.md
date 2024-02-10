@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Nederlandse taal applicatie waar ik aan medegewerkt heb in mijn stage periode bij FC-Sprint² Leerbedrijf Bronnen.
+Nederlandse taal applicatie waar ik aan meegewerkt heb in mijn stageperiode bij FC-Sprint² Leerbedrijf Bronnen.
 
 
 De leraar kan een exercise maken en zelf de gehele tekst samenstellen en woorden die weggelaten worden bepalen.
